@@ -1,0 +1,52 @@
+image {
+    max-width:100%;
+    height: auto;
+    margin: 0 auto; 
+    justify-content: center;
+    align-items: center;
+}
+
+#image2{
+    max-width:100%;
+    height: auto;
+    margin: 0 auto; 
+    justify-content: center;
+    align-items: center;
+    margin-top:15px;
+}
+
+h1,.p{
+    display:block;
+    text-align:center;
+    background-color:#e0d0ce;
+}
+
+#img-caption{
+    display:block;
+    text-align:center;
+    margin:10px;
+    font-size:20px;
+    font-weight:bold;
+}
+
+fieldset{
+    margin:5px;
+    margin-top:40px;
+    background-color:#e0d0ce;
+}
+
+img{
+    display:block;
+}
+
+ul>li{
+    margin:10px;
+    padding:10px;
+    padding-bottom:20px;
+}
+
+.wikipedia{
+    font-size:18px;
+    margin:10px;
+    padding:10px;
+}
